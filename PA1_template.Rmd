@@ -97,7 +97,7 @@ missingval
 ###**The total number of missing values is `r format(missingval)`**
 
 ##Devise a strategy for filling in all of the missing values in the dataset. 
-###**We will replace missing values with the mean value**  
+###**My Strategy: We will replace missing 5 minute interval values (NA's) with the mean value.**  
 
 ##Create a new dataset that is equal to the original dataset but with the missing data filled in.
 
